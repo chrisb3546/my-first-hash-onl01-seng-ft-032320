@@ -1,8 +1,7 @@
 def my_hash
   your_hash = :name => "Chris"
-
-  
 end
+  end
 
 
 def shipping_manifest
